@@ -5,4 +5,4 @@
 
 ![Microsoft Azure badge](https://img.shields.io/static/v1?message=Azure&logo=Microsoft%20Azure&labelColor=0078D4&color=0078D4&logoColor=white&label=%20&style=for-the-badge)
 
-This is my GitHub account that I have used during my Digital Product Management course at the University of Iowa. During the semester, I utilized tools such as HTML, CSS and Microsoft Azure. I am grateful for all the experiences that I have had during my time at Iowa and through this course. Below, I have pinned some of my favorite projects. 
+This is my GitHub account that I have used during my Digital Product Management course at the University of Iowa. During the semester, I utilized tools such as HTML, CSS and Microsoft Azure. Overall, I feel that Scrum framework has improved my approach to digital tasks. I am grateful for all the experiences that I have had during my time at Iowa and through this course. Below, I have pinned some of my favorite projects. 
